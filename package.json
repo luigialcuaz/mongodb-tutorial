@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luigialcuaz/mongodb-tutorial/issues"
   },
-  "homepage": "https://github.com/luigialcuaz/mongodb-tutorial#readme"
+  "homepage": "https://github.com/luigialcuaz/mongodb-tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
